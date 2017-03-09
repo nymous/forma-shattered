@@ -16,21 +16,39 @@ link: https://tikiki.github.io/forma-shattered
 layout: false
 
 .left-column[
-## Bullet point
+## SHAttered
 ]
 
 .right-column[
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+Le 23 février, Google annonce qu'il a généré la première vraie collision SHA-1 de l'histoire.
+]
 
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+--
+count: false
 
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+<br>
+<br>
+<br>
+<br>
+.right-column[
+Internet tremble.
+]
 
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+--
+count: false
 
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+<br>
+<br>
+<br>
+<br>
+.right-column[
+Sauf que c'est quoi exactement SHA-1, en fait ?
+]
 
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+
+.left-column[
+SHA-1
 ]
 
 ---

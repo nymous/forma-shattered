@@ -90,3 +90,7 @@ code {
 img {
   width: 100%;
 }
+
+.crypto_hash_function_img img {
+  width: 75%;
+}

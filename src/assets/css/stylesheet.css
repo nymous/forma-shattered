@@ -92,5 +92,9 @@ img {
 }
 
 .crypto_hash_function_img img {
-  width: 75%;
+  width: 70%;
+}
+
+.shattered_proof_img img {
+  width: 70%;
 }

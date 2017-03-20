@@ -138,11 +138,11 @@ layout: false
 - SSH
 
 - PGP
-]
-
-???
 
 Fun fact : le miroir SVN de Webkit est tout cassé, parce qu'ils ont voulu faire un test pour montrer que SVN ne gérait pas les collisions, ça a un peu trop bien marché ^^
+
+Fun fact bis : git utilise SHA-1 pour les hash des objets (commits, tags, branches...), mais le risque d'une collision naturelle est _très_ faible. Si 5 millions de développeurs faisaient chacun un commit par seconde, les chances qu'une collision se produise avant que le soleil ne devienne une géante rouge sont de 50%.
+]
 
 ---
 template: inverse
@@ -256,6 +256,8 @@ L'attaque a été faire sur des fichiers PDF. Le format de fichier PDF est assez
 - https://www.howtogeek.com/238705/what-is-sha-1-and-why-will-retiring-it-kick-thousands-off-the-internet/
 
 - https://bugs.webkit.org/show_bug.cgi?id=168774&comment=c27#c27
+
+- https://github.com/blog/2338-sha-1-collision-detection-on-github-com
 ]
 ---
 template: inverse
